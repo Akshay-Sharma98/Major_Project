@@ -1,8 +1,6 @@
 import time
 from dronekit import connect, VehicleMode, LocationGlobalRelative, Command, LocationGlobal
 from pymavlink import mavutil
-
-#- Importing Tkinter: sudo apt-get install python-tk
 import Tkinter as tk
 
 
